@@ -1,0 +1,639 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 887">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #d5e7e2;
+      }
+
+      .cls-3 {
+        fill: #8abcc1;
+      }
+
+      .cls-4 {
+        fill: #f8f9f7;
+      }
+
+      .cls-5 {
+        fill: #74aaad;
+      }
+
+      .cls-6 {
+        fill: #e6f1ee;
+      }
+
+      .cls-7 {
+        fill: #93c4cc;
+      }
+
+      .cls-8 {
+        fill: #f7faf9;
+      }
+
+      .cls-9 {
+        fill: #e96642;
+      }
+
+      .cls-10 {
+        fill: #f3764b;
+      }
+
+      .cls-11 {
+        fill: #e1593c;
+      }
+
+      .cls-12 {
+        fill: #98866f;
+      }
+
+      .cls-13 {
+        fill: #478879;
+      }
+
+      .cls-14 {
+        fill: #223b3f;
+      }
+
+      .cls-15 {
+        fill: #d6ccc0;
+      }
+
+      .cls-16 {
+        fill: #f8b77c;
+      }
+
+      .cls-17 {
+        fill: #264147;
+      }
+
+      .cls-18 {
+        fill: #e1d5c9;
+      }
+
+      .cls-19 {
+        fill: #fcc287;
+      }
+
+      .cls-20 {
+        fill: #2b4a51;
+      }
+
+      .cls-21 {
+        fill: #529285;
+      }
+
+      .cls-22 {
+        fill: #c55a28;
+      }
+
+      .cls-23 {
+        fill: #bd5328;
+      }
+
+      .cls-24 {
+        fill: #e1a836;
+      }
+
+      .cls-25 {
+        fill: #e9b540;
+      }
+
+      .cls-26 {
+        fill: #c95230;
+      }
+
+      .cls-27 {
+        fill: #d45f36;
+      }
+
+      .cls-28 {
+        fill: #3c5568;
+      }
+
+      .cls-29 {
+        fill: #445e73;
+      }
+
+      .cls-30 {
+        fill: #dca036;
+      }
+
+      .cls-31 {
+        fill: #d0932e;
+      }
+
+      .cls-32 {
+        fill: #f9f9f9;
+      }
+
+      .cls-33 {
+        fill: #fff;
+      }
+
+      .cls-34 {
+        fill: #7a5034;
+      }
+
+      .cls-35 {
+        fill: #684127;
+      }
+
+      .cls-36 {
+        fill: #3a2a21;
+      }
+
+      .cls-37 {
+        fill: #f7d8ba;
+      }
+
+      .cls-38 {
+        fill: #443328;
+      }
+
+      .cls-39 {
+        fill: #377866;
+      }
+    </style>
+  </defs>
+  <title>04</title>
+  <g>
+    <polygon class="cls-1" points="0 2 78 2 78 2 0 2"/>
+    <polygon class="cls-1" points="1042 2 1005 2 1005 2 1042 2"/>
+    <polygon class="cls-1" points="1080 4 1005 4 1005 4 1080 4"/>
+    <path class="cls-2" d="M1,316V467a25,25,0,0,1,24-19h2a49,49,0,0,1,71-22,65,65,0,0,1,121,29,48,48,0,0,1-2,96H1v477L57,907h0l79-172,19,42c0-2,0-3,0-5V757h-1c-3,0-5-4-5-7s-2-14-3-19,2-6,6-7h1c-1-10-1-21-1-30,0-23-2-49,40-60l18-3c29-1,44,17,43,28,13-2,16,17,16,27s-1,21-2,38h3L388,525V410H320v12l-63,4,22-27-25-24,38-2-2-26H395V527L525,746h0L644,957l20-44h0l64-139,59,126h0l62,134,29-63h0l50-108V317H1ZM684,573h0a19,19,0,0,1,19-18h1a37,37,0,0,1,53-17,49,49,0,0,1,90,22,36,36,0,0,1-2,72H684A29,29,0,0,1,684,573ZM491,473h0a14,14,0,0,1,14-14h1a28,28,0,0,1,40-13,37,37,0,0,1,68,16,27,27,0,0,1-1,54H491A22,22,0,0,1,491,473Z" transform="translate(77 -313)"/>
+    <polygon class="cls-2" points="350 2 1005 4 1005 4 650 2 350 2"/>
+    <polygon class="cls-2" points="79 766 99 766 99 765 78 765 78 808 79 808 79 766"/>
+    <path class="cls-2" d="M181,831h9v-7l5,3v-5c-8-2-18-7-26-14l11,23h0Z" transform="translate(77 -313)"/>
+    <polygon class="cls-2" points="650 2 1005 2 1005 2 553 2 650 2"/>
+    <polygon class="cls-2" points="78 0 78 2 553 2 78 0"/>
+    <polygon class="cls-2" points="1005 4 1005 2 650 2 1005 4"/>
+    <polygon class="cls-2" points="650 2 553 2 78 2 78 2 350 2 650 2"/>
+    <polygon class="cls-2" points="350 2 78 2 78 3 350 2"/>
+    <polygon class="cls-3" points="955 659 926 722 930 731 1005 731 1005 652 985 643 955 659"/>
+    <polygon class="cls-4" points="955 659 1005 551 1005 551 955 659 955 659"/>
+    <polygon class="cls-4" points="985 643 1005 652 1005 551 955 659 985 643"/>
+    <polygon class="cls-3" points="789 766 906 766 918 739 774 739 789 766"/>
+    <polygon class="cls-3" points="142 765 99 765 99 766 141 766 142 765"/>
+    <polygon class="cls-3" points="933 739 918 739 906 766 1005 766 1005 731 930 731 933 739"/>
+    <rect class="cls-5" x="79" y="766" width="20" height="41.67"/>
+    <path class="cls-5" d="M153,1120c0-2,3-12,3-12s0-2,3-2v-6h-7v-9H58l7-12H22v42H153Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M828,1079H712l5,9H633c4,46-19,88-66,111H928v-89H814Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M314,1098c-13-1-19,1-20-1s-2-6-1-7H188v9h-7v3h5l2,3h1l2,2h6c9,2,15,6,18,9h52s77,0,123-31H351C339,1098,325,1099,314,1098Z" transform="translate(77 -313)"/>
+    <polygon class="cls-5" points="891 798 1005 798 1005 766 906 766 891 798"/>
+    <path class="cls-6" d="M216,551a48,48,0,0,0,2-96A65,65,0,0,0,98,426a49,49,0,0,0-71,22H25A25,25,0,0,0,1,467v84H216Z" transform="translate(77 -313)"/>
+    <polygon class="cls-3" points="922 731 926 722 864 588 818 566 797 596 771 584 741 600 721 644 769 731 922 731"/>
+    <polygon class="cls-3" points="930 731 926 722 922 731 930 731"/>
+    <polygon class="cls-3" points="769 731 774 739 918 739 922 731 769 731"/>
+    <polygon class="cls-3" points="918 739 933 739 930 731 922 731 918 739"/>
+    <polygon class="cls-4" points="741 600 741 600 805 461 741 600"/>
+    <polygon class="cls-4" points="864 588 805 461 864 588 864 588"/>
+    <polygon class="cls-4" points="797 596 818 566 864 588 805 461 741 600 771 584 797 596"/>
+    <path class="cls-7" d="M122,978h-3a1,1,0,0,0-2,0h0a3,3,0,0,1-6,0h0a1,1,0,0,0-1,0h0a3,3,0,0,1-6,0,1,1,0,0,0-2-1h0l-2,2a3,3,0,0,1-3-3h0a20,20,0,0,0-3,6h25Z" transform="translate(77 -313)"/>
+    <polygon class="cls-7" points="247 494 247 494 258 517 258 517 247 494"/>
+    <polygon class="cls-7" points="233 464 214 422 233 464 233 464"/>
+    <path class="cls-7" d="M152,866l-26,36h0c-2,11-2,24,0,39h-6c1,2,1,5,3,6s8,0,9,17l24-42Z" transform="translate(77 -313)"/>
+    <path class="cls-7" d="M22,1044H58V982H88a25,25,0,0,1,8-15c-1-4-1-10,0-13s4-4,4-11H93c-3-22-2-41,2-57H94L57,907,1,1028v51H22v-35Z" transform="translate(77 -313)"/>
+    <polygon class="cls-7" points="156 741 135 741 135 731 99 731 99 765 142 765 156 741"/>
+    <polygon class="cls-4" points="134 594 134 594 214 422 134 594"/>
+    <path class="cls-4" d="M95,887c4-14,10-26,18-35,19-20,42-22,52-22h15l-11-23c-7-7-13-17-14-30l-19-42L57,907l37-20h1Z" transform="translate(77 -313)"/>
+    <path class="cls-4" d="M152,866h0a36,36,0,0,0-14,9c-6,6-10,16-12,27h0Z" transform="translate(77 -313)"/>
+    <path class="cls-8" d="M491,517H614a27,27,0,0,0,1-54,37,37,0,0,0-68-16,28,28,0,0,0-40,13h-1a14,14,0,0,0-14,14h0A22,22,0,0,0,491,517Z" transform="translate(77 -313)"/>
+    <path class="cls-8" d="M684,632H846a36,36,0,0,0,2-72,49,49,0,0,0-90-22,37,37,0,0,0-53,17h-1a19,19,0,0,0-19,18h0A29,29,0,0,0,684,632Z" transform="translate(77 -313)"/>
+    <polygon class="cls-9" points="397 98 397 98 374 98 397 98"/>
+    <polygon class="cls-9" points="371 61 333 64 357 87 335 114 398 110 374 98 371 61"/>
+    <polygon class="cls-10" points="369 36 371 61 393 60 397 98 465 97 465 35 369 36"/>
+    <polygon class="cls-10" points="371 61 374 98 397 98 393 60 371 61"/>
+    <polygon class="cls-11" points="397 98 397 98 398 110 397 98"/>
+    <polygon class="cls-11" points="398 110 397 98 374 98 398 110"/>
+    <path class="cls-12" d="M391,521h0l3,6V348h-6c1,10,0,61,1,61h-1V525l3-5h0Z" transform="translate(77 -313)"/>
+    <polygon class="cls-12" points="465 35 465 35 466 35 465 35"/>
+    <path class="cls-12" d="M389,349h0v62h1C389,409,390,359,389,349Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M266,909l-2,30v4c9,11,33,40,37,55s7,33,9,46H420c2-12,1-26-4-41-9-29-57-50-94-77C297,927,281,921,266,909Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M415,700a300,300,0,0,1-43,113s-40,58,90,100c75,24,125,66,151,111l31-67L525,746h0L418,695Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M283,1044a111,111,0,0,0-13-34c-3-5-8-10-14-14l22,48h4Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M224,821v5l5-3v7h23c9,0,17,7,17,20v2c0,6,2,17,11,27l4,4a56,56,0,0,1-4-24c1-32,33-63,64-106l-35-16-45,24v11C263,804,240,816,224,821Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M294,1075h0l-2-6h-1Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M314,1044h0Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M185,1078h0Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M285,1055h0c0-3-1-7-2-11h-4Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M317,1044h0l4,11a2,2,0,0,1-1,2l-9,3v4l4-2,3,2h5a1,1,0,0,1,0,1h6c16-2,23,4,24,7a5,5,0,0,1,4,4h42c10-9,17-21,19-35H317Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M625,1052a143,143,0,0,1,7,27h80l-15-27H625Z" transform="translate(77 -313)"/>
+    <polygon class="cls-5" points="233 765 142 765 141 766 233 766 233 765"/>
+    <path class="cls-5" d="M633,1089h84l-5-9H632Q633,1084,633,1089Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M401,1079H359a4,4,0,0,1,0,3l-8,7h38Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M152,1085h4v-6H64l-7,12h93v-6Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M185,1079v6h2v5H293c-1-2-1-8-1-11H185Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M622,1044h70l-49-87-31,67A171,171,0,0,1,622,1044Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M697,1052l-5-8H622l3,8h71Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M257,996c-13-10-29-17-39-21H202l-6,9c-4,6-6,33-8,60h92Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M131,966a26,26,0,0,1,9,16h15V922l-24,42v2h0Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M129,974h-3s-2-1-2,2a3,3,0,0,1-2,3l-2,4h13A20,20,0,0,0,129,974Z" transform="translate(77 -313)"/>
+    <path class="cls-5" d="M294,1075l-3-5-4,2h-2l-4-11a2,2,0,0,1,1-2h3l-5-12H187c-1,12-2,25-2,35H292S291,1076,294,1075Z" transform="translate(77 -313)"/>
+    <polygon class="cls-5" points="233 741 191 741 156 741 142 765 233 765 233 741"/>
+    <path class="cls-4" d="M274,731c-1,5-2,10-3,19l120-93c9-33,11-72,4-118v2h-6V525L269,724C272,725,274,728,274,731Z" transform="translate(77 -313)"/>
+    <path class="cls-4" d="M418,636l24-18,84,128h0L395,527v2C401,545,416,584,418,636Z" transform="translate(77 -313)"/>
+    <path class="cls-4" d="M395,529v-2l-3-6Z" transform="translate(77 -313)"/>
+    <path class="cls-4" d="M395,541v-2l-3-18h0l-3,5v16h6Z" transform="translate(77 -313)"/>
+    <path class="cls-4" d="M418,636a309,309,0,0,1-3,64l3-5,107,51L442,618Z" transform="translate(77 -313)"/>
+    <path class="cls-4" d="M266,757h-2v4l45-24,35,16c19-26,37-57,47-96L271,750h0C271,753,269,758,266,757Z" transform="translate(77 -313)"/>
+    <rect class="cls-3" x="78" y="808" width="1" height="78.97"/>
+    <rect class="cls-3" x="79" y="808" width="20" height="78.97"/>
+    <path class="cls-3" d="M633,1089H389c-46,31-123,31-123,31H214c2,2,3,4,3,6s2,8,1,8c-18,10-34,5-47-1s-18-5-19-7a9,9,0,0,1,1-6H22v79H567C615,1177,637,1135,633,1089Z" transform="translate(77 -313)"/>
+    <polygon class="cls-3" points="468 208 468 208 468 208 468 208"/>
+    <path class="cls-3" d="M344,753c-30,43-62,74-64,106a56,56,0,0,0,4,24c11,9,24,13,51,9v7l7-2c3-3,1-9,20-7h5a3,3,0,0,1,3,3v2h0s-1,2,1,2a3,3,0,0,1,2,5h0a1,1,0,0,0,0,2h0a3,3,0,0,1,0,6h0a1,1,0,0,0,0,1h0a3,3,0,0,1,0,6,1,1,0,0,0-1,2h0a3,3,0,0,1-1,5h-5c-4,1-13,1-16-1s-4-4-10-5v5H323c36,27,84,47,94,77,5,16,6,30,4,41H603l9-19c-26-45-77-87-151-111-130-43-90-100-90-100a300,300,0,0,0,43-113l-46,65Z" transform="translate(77 -313)"/>
+    <path class="cls-3" d="M603,1044H420c-3,14-9,26-19,35H632a143,143,0,0,0-7-27H600Z" transform="translate(77 -313)"/>
+    <path class="cls-3" d="M401,1079l-13,10H633q0-5-1-9H401Z" transform="translate(77 -313)"/>
+    <path class="cls-3" d="M622,1044a171,171,0,0,0-10-19l-9,19h19Z" transform="translate(77 -313)"/>
+    <path class="cls-3" d="M600,1052h25l-3-8H603Z" transform="translate(77 -313)"/>
+    <path class="cls-3" d="M395,529v10c8,46,5,85-4,118l27-21C416,584,401,545,395,529Z" transform="translate(77 -313)"/>
+    <path class="cls-3" d="M391,521h0l3,18V529Z" transform="translate(77 -313)"/>
+    <path class="cls-3" d="M369,765l46-65a309,309,0,0,0,3-64l-27,21c-10,39-28,70-47,96Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M247,973l10,22c6,4,11,9,14,14a111,111,0,0,1,13,34h27c-2-13-6-36-9-46s-28-44-37-55v29H247Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M285,1055l26-10H283C284,1048,285,1052,285,1055Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M257,996l-10-22-29,2C228,979,245,986,257,996Z" transform="translate(77 -313)"/>
+    <path class="cls-14" d="M294,1075h0Z" transform="translate(77 -313)"/>
+    <path class="cls-14" d="M292,1078h3v-2h0C291,1076,292,1078,292,1078Z" transform="translate(77 -313)"/>
+    <path class="cls-15" d="M307,1090H293c0,1-1,4,1,7s7-1,20,1,24,1,36-8H307Z" transform="translate(77 -313)"/>
+    <path class="cls-15" d="M355,1075a2,2,0,0,1,0,1l-2,3h6A5,5,0,0,0,355,1075Z" transform="translate(77 -313)"/>
+    <path class="cls-15" d="M294,1090h0Z" transform="translate(77 -313)"/>
+    <path class="cls-15" d="M326,1090h25l8-7a4,4,0,0,0,0-3h-6C347,1086,336,1089,326,1090Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M294,1075h3l11-2,5-7v-4l-20,8Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M295,1078c3,1,9,2,11-3l2-4-11,2h-3v2Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M295,1078v0h0Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M293,1090h0Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M324,1069v-2h-3v2Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M327,1067h-2v2h2Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M294,1078h0Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M324,1066h-2v2h3Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M329,1068l-4,2a5,5,0,0,0,2,3,1,1,0,0,1,0,1h-1a7,7,0,0,1-2-4l-2,2h-1v-3h0l-4,2h0v4a3,3,0,0,1-2,4h21l17-4h3c-1-3-8-9-24-7h-3Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M320,1064l-3-2-4,2,2,5A10,10,0,0,1,320,1064Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M319,1068h1v-2a9,9,0,0,0-4,4h3Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M294,1089l41-10H312l-11,4a3,3,0,0,1-4-2v-2h-3c0,3,1,9,1,11h1Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M292,1078h0Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M294,1078h0Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M295,1078h0Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M307,1090h0Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M293,1090h0Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M353,1075l-17,4h18l2-3a2,2,0,0,0,0-1h-3Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M294,1089h32c10-1,21-4,27-11H335Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M310,1071c2-1,4,5,4,6l-6,3h6a3,3,0,0,0,2-4v-4h0l-2-5-5,7h2Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M295,1079h0Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M304,1081l-7-2h-2v2a3,3,0,0,0,4,2l11-4h-3Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M295,1078h13l6-3s-2-7-4-6h-2l-2,4C304,1079,299,1078,295,1078Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M304,1081l4-2H297Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M295,1078h0Z" transform="translate(77 -313)"/>
+    <path class="cls-15" d="M322,1065h0Z" transform="translate(77 -313)"/>
+    <path class="cls-15" d="M326,1067a1,1,0,0,0,0-1h0Z" transform="translate(77 -313)"/>
+    <path class="cls-15" d="M329,1067h0Z" transform="translate(77 -313)"/>
+    <path class="cls-15" d="M315,1070h1l4-2h0v3h1l2-2a7,7,0,0,0,2,4h1a1,1,0,0,0,0-1,5,5,0,0,1-2-3l4-2h-4v-2h-5v-2h-1A10,10,0,0,0,315,1070Zm9-2v2l-2,2v-2h3Zm-4-2v2h-3A9,9,0,0,1,320,1065Z" transform="translate(77 -313)"/>
+    <path class="cls-15" d="M315,1070h0Z" transform="translate(77 -313)"/>
+    <path class="cls-17" d="M159,1109v-3c-3,0-3,2-3,2h3Z" transform="translate(77 -313)"/>
+    <path class="cls-18" d="M153,1120h0Z" transform="translate(77 -313)"/>
+    <path class="cls-18" d="M216,1128c-13,11-43,1-50-3l-10-4h-3a9,9,0,0,0-1,6c0,2,6,1,19,7s28,10,47,1c2-1,3-6-1-8h0Z" transform="translate(77 -313)"/>
+    <path class="cls-19" d="M159,1106h4l11,2,7-5v-3H159v6Z" transform="translate(77 -313)"/>
+    <path class="cls-19" d="M170,1110l3-3-11-2h-4v3C162,1111,166,1114,170,1110Z" transform="translate(77 -313)"/>
+    <path class="cls-20" d="M196,1112h-7a5,5,0,0,0,0,4h-1a7,7,0,0,1-1-4h-4a9,9,0,0,1,0-3h-5v4a3,3,0,0,1-3,3H162a3,3,0,0,1-3-3v-3l-3-2s-3,10-3,12h1l16,2h44C211,1118,205,1114,196,1112Z" transform="translate(77 -313)"/>
+    <path class="cls-20" d="M190,1110h0Z" transform="translate(77 -313)"/>
+    <path class="cls-20" d="M185,1108v-2l-5,2h4Z" transform="translate(77 -313)"/>
+    <path class="cls-20" d="M190,1108l-2-2-2,2h3Z" transform="translate(77 -313)"/>
+    <path class="cls-20" d="M187,1105l-2-3h-5v5A10,10,0,0,1,187,1105Z" transform="translate(77 -313)"/>
+    <path class="cls-20" d="M186,1111h3v-2h-3v2Z" transform="translate(77 -313)"/>
+    <path class="cls-20" d="M214,1126h3c0-1-1-3-3-6H170Z" transform="translate(77 -313)"/>
+    <path class="cls-20" d="M156,1108l3,2h-3Z" transform="translate(77 -313)"/>
+    <path class="cls-20" d="M170,1121l-16-2h16Z" transform="translate(77 -313)"/>
+    <path class="cls-20" d="M170,1121H156l10,4c7,4,37,14,50,3h-2Z" transform="translate(77 -313)"/>
+    <path class="cls-20" d="M175,1107c2,0,2,6,2,7H166l-8-5v3a3,3,0,0,0,3,3h15a3,3,0,0,0,3-3v-4h-1a1,1,0,0,1,0-1h1v-5l-7,5h2Z" transform="translate(77 -313)"/>
+    <path class="cls-20" d="M177,1114s0-7-2-7h-2l-3,3c-4,4-9,1-12-1h0l8,5h11Z" transform="translate(77 -313)"/>
+    <path class="cls-18" d="M194,1111h0Z" transform="translate(77 -313)"/>
+    <path class="cls-18" d="M188,1106h0Z" transform="translate(77 -313)"/>
+    <path class="cls-18" d="M191,1108h0Z" transform="translate(77 -313)"/>
+    <path class="cls-18" d="M180,1108v2h5a9,9,0,0,0,0,3h4a7,7,0,0,0,1,4h1a5,5,0,0,1,0-4h-3l2-2h-1A10,10,0,0,0,180,1108Zm9,1v2h-3v-2h3Zm-3-3v2h-4Z" transform="translate(77 -313)"/>
+    <path class="cls-18" d="M180,1109a1,1,0,0,0,0,1h1v-2h-1Z" transform="translate(77 -313)"/>
+    <path class="cls-21" d="M156,1078h0Z" transform="translate(77 -313)"/>
+    <path class="cls-21" d="M156,1085h29v-6H156v6Z" transform="translate(77 -313)"/>
+    <path class="cls-21" d="M170,991v53h17c2-27,5-54,8-60l6-9-46-3v10h15v9Z" transform="translate(77 -313)"/>
+    <path class="cls-21" d="M187,1044H170v10H156v24h29C185,1069,186,1056,187,1044Z" transform="translate(77 -313)"/>
+    <path class="cls-21" d="M202,975h8V939H178v6a4,4,0,0,1-4,4h-6a4,4,0,0,1-4-4v-6h-8v30l47,5h-1Z" transform="translate(77 -313)"/>
+    <path class="cls-21" d="M203,974l-47-5v3l46,3h1Z" transform="translate(77 -313)"/>
+    <polygon class="cls-13" points="337 626 332 626 332 629 337 626"/>
+    <path class="cls-13" d="M240,945v-6h-9l7,15,7-5h0A4,4,0,0,1,240,945Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M261,939l3,4v-4h-3Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M211,972l27-18-7-15H210v16l-2,20h8Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M260,939l-5,3v2a4,4,0,0,1-4,4h-5l-7,5,9,19h17V943l-3-4h-1Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M218,975l29-2-9-19-27,18Z" transform="translate(77 -313)"/>
+    <polygon class="cls-13" points="287 626 287 626 287 626 287 662 288 642 287 626"/>
+    <path class="cls-13" d="M150,1091v9h4v-9h-5Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M184,1100h3v-9h-4v9Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M187,1085h-2v5h4v-5Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M156,1085h-4v6h5v-5Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M159,1091h-4v9h3v-9Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M179,1091v9h4v-9h-5Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M156,1091h29v-5H156v5Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M179,1091H159v9h22v-9Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M162,1090h0Z" transform="translate(77 -313)"/>
+    <path class="cls-22" d="M166,939h-2v6a4,4,0,0,0,4,4h6a4,4,0,0,0,4-4v-6H166Z" transform="translate(77 -313)"/>
+    <path class="cls-23" d="M243,939h-2v6a4,4,0,0,0,4,4h0l10-7v-3H243Z" transform="translate(77 -313)"/>
+    <path class="cls-23" d="M251,949a4,4,0,0,0,4-4v-2l-10,7h5Z" transform="translate(77 -313)"/>
+    <polygon class="cls-24" points="209 701 233 701 233 694 203 694 199 705 191 705 191 711 206 711 209 701"/>
+    <rect class="cls-24" x="233" y="694" width="15" height="6.84"/>
+    <polygon class="cls-25" points="175 707 180 698 179 694 135 694 135 701 173 701 175 707"/>
+    <polygon class="cls-25" points="191 711 191 705 182 705 180 698 175 707 176 711 191 711"/>
+    <path class="cls-26" d="M140,982a26,26,0,0,0-9-16v4a3,3,0,0,1-2,3,20,20,0,0,1,4,8h7Z" transform="translate(77 -313)"/>
+    <path class="cls-27" d="M97,976v-8a25,25,0,0,0-8,15h7A20,20,0,0,1,97,976Z" transform="translate(77 -313)"/>
+    <polygon class="cls-28" points="191 680 197 669 191 669 191 678 191 680"/>
+    <path class="cls-28" d="M126,1007h30V982H120l-6,11v25h9Z" transform="translate(77 -313)"/>
+    <polygon class="cls-28" points="247 694 247 678 247 669 233 669 233 694 247 694"/>
+    <path class="cls-28" d="M133,983h0Z" transform="translate(77 -313)"/>
+    <path class="cls-29" d="M103,1012l9-16v-4l2-9H58v25h44v4Z" transform="translate(77 -313)"/>
+    <polygon class="cls-29" points="191 705 190 682 180 698 182 705 191 705"/>
+    <path class="cls-29" d="M91,983h0Z" transform="translate(77 -313)"/>
+    <polygon class="cls-29" points="191 678 191 669 189 678 190 682 191 680 191 678"/>
+    <polygon class="cls-29" points="191 680 190 682 191 705 191 680"/>
+    <polygon class="cls-28" points="191 731 233 731 233 701 209 701 206 711 191 711 191 716 191 731"/>
+    <rect class="cls-28" x="191" y="731" width="42" height="10.5"/>
+    <polygon class="cls-28" points="247 701 233 701 233 731 247 731 247 716 247 701"/>
+    <rect class="cls-28" x="233" y="731" width="15" height="10.5"/>
+    <polygon class="cls-29" points="175 707 173 701 135 701 135 716 135 731 162 731 175 707"/>
+    <polygon class="cls-29" points="156 741 162 731 135 731 135 741 156 741"/>
+    <polygon class="cls-29" points="189 716 191 711 176 711 175 707 162 731 190 731 189 716"/>
+    <polygon class="cls-29" points="190 731 162 731 156 741 191 741 190 731"/>
+    <polygon class="cls-29" points="191 716 191 711 189 716 190 731 191 731 191 716"/>
+    <polygon class="cls-29" points="190 731 191 741 191 731 190 731"/>
+    <path class="cls-16" d="M210,824h0Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M216,829h2l6-3v-5l-14,3h0v2h2Z" transform="translate(77 -313)"/>
+    <path class="cls-19" d="M202,829h2l4-2h1v-2l-13-3v5Z" transform="translate(77 -313)"/>
+    <polygon class="cls-19" points="286 513 286 514 286 514 286 513"/>
+    <path class="cls-19" d="M210,824h-1v2h1Z" transform="translate(77 -313)"/>
+    <polygon class="cls-19" points="287 514 287 514 287 512 286 513 286 514 287 514"/>
+    <path class="cls-16" d="M349,924c4,2,12,2,16,1h5a3,3,0,0,0,1-5h0a1,1,0,0,1,1-2,3,3,0,0,0,0-6h0a1,1,0,0,1,0-1h0a3,3,0,0,0,0-6h0a1,1,0,0,1,0-2h0a3,3,0,0,0-2-5c-3,0-1-2-1-2h0v-2a3,3,0,0,0-3-3h-5c-19-2-16,4-20,7l-7,2,2,19C345,919,345,921,349,924Z" transform="translate(77 -313)"/>
+    <path class="cls-24" d="M269,853l-3,56c15,12,31,17,57,17-17-12-31-26-38-43l-4-4C271,870,269,859,269,853Z" transform="translate(77 -313)"/>
+    <path class="cls-24" d="M323,926h17v-5h-8c0-4,0-19,0-19h5v-7c-27,3-40,0-51-9C292,899,306,913,323,926Z" transform="translate(77 -313)"/>
+    <path class="cls-24" d="M331,900s0,15,0,19h8l-2-19h-5Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M114,960a27,27,0,0,1,16,5v-2c0-16-6-14-9-17s-2-4-3-6l-19,2c0,7-1,7-4,11s-1,8,0,13,12-7,18-7h0Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M101,979l2-2h0a1,1,0,0,1,2,1,3,3,0,0,0,6,0h0a1,1,0,0,1,1,0h0a3,3,0,0,0,6,0h0a1,1,0,0,1,2,0h3l4-7a20,20,0,0,0-13-4h0a19,19,0,0,0-17,9h0A3,3,0,0,0,101,979Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M124,975c0-3,2-2,2-2h3l-3-3-4,7A3,3,0,0,0,124,975Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M131,966v0h1Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M130,966a27,27,0,0,0-16-5v6a20,20,0,0,1,13,4Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M129,974a3,3,0,0,0,2-3v-4h-1l-3,5Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M97,976a19,19,0,0,1,17-9h0l-2-3,2-3h0c-6,0-13,3-18,7v8Z" transform="translate(77 -313)"/>
+    <polygon class="cls-16" points="189 650 191 653 191 647 189 650"/>
+    <path class="cls-25" d="M118,935a42,42,0,0,0,1,6h6c-2-15-2-28,0-39L95,887c-4,16-5,35-2,57h7v-7Z" transform="translate(77 -313)"/>
+    <path class="cls-25" d="M138,875a36,36,0,0,1,14-9V850c0-12,7-19,15-20h0c-10,0-34,2-52,22-9,9-15,21-18,35l30,14C128,890,132,881,138,875Z" transform="translate(77 -313)"/>
+    <path class="cls-25" d="M118,935l-19,2v7l19-2A42,42,0,0,1,118,935Z" transform="translate(77 -313)"/>
+    <polygon class="cls-25" points="257 565 253 563 253 571 257 565"/>
+    <path class="cls-25" d="M166,871l-13-6h-1l3,56,11-20V871Z" transform="translate(77 -313)"/>
+    <path class="cls-25" d="M152,865h0Z" transform="translate(77 -313)"/>
+    <path class="cls-25" d="M166,863a41,41,0,0,0-13,2l13,6v-8Z" transform="translate(77 -313)"/>
+    <polygon class="cls-25" points="257 565 263 553 263 553 253 529 253 563 257 565"/>
+    <polygon class="cls-25" points="287 551 287 551 281 534 271 545 287 580 287 551"/>
+    <polygon class="cls-25" points="243 614 243 589 232 608 233 626 233 614 243 614"/>
+    <path class="cls-25" d="M176,927h34V893l-16-35h0l9,20-3,9-21-10-4,6v43Z" transform="translate(77 -313)"/>
+    <path class="cls-25" d="M200,888l3-9-9-20-7,8-7,12Z" transform="translate(77 -313)"/>
+    <path class="cls-25" d="M176,927v8a4,4,0,0,1,2,4h31V927H176Z" transform="translate(77 -313)"/>
+    <path class="cls-25" d="M164,939a4,4,0,0,1,2-4v-8H156v12h8Z" transform="translate(77 -313)"/>
+    <path class="cls-25" d="M166,935a4,4,0,0,0-2,4h2v-4Z" transform="translate(77 -313)"/>
+    <path class="cls-25" d="M176,935v4h2A4,4,0,0,0,176,935Z" transform="translate(77 -313)"/>
+    <path class="cls-25" d="M152,865h0Z" transform="translate(77 -313)"/>
+    <path class="cls-25" d="M152,865h0a41,41,0,0,1,13-2V832h0c-9,1-15,8-15,20v15h0Z" transform="translate(77 -313)"/>
+    <polygon class="cls-24" points="294 534 301 529 301 529 294 534"/>
+    <path class="cls-24" d="M212,891v6l14,30h17V880a74,74,0,0,1-5-22l-3,8-17-19-6,14v29Z" transform="translate(77 -313)"/>
+    <path class="cls-24" d="M253,897v31h11v12l2-30-7-6Z" transform="translate(77 -313)"/>
+    <polygon class="cls-24" points="306 525 316 517 316 517 306 525 306 525"/>
+    <path class="cls-24" d="M253,849h16c0,1,0,2,0,3v-2c0-12-7-19-17-20h0v17Z" transform="translate(77 -313)"/>
+    <polygon class="cls-24" points="320 532 318 535 320 535 320 532"/>
+    <polygon class="cls-24" points="288 584 287 614 303 614 288 584"/>
+    <path class="cls-24" d="M240,939a4,4,0,0,1,2-4v-8H226l5,12h9Z" transform="translate(77 -313)"/>
+    <path class="cls-24" d="M253,927v8a4,4,0,0,1,2,4h9V927H253Z" transform="translate(77 -313)"/>
+    <polygon class="cls-24" points="287 614 287 622 287 626 308 626 303 614 287 614"/>
+    <path class="cls-24" d="M261,939h0Z" transform="translate(77 -313)"/>
+    <polygon class="cls-24" points="287 626 287 626 287 622 287 626"/>
+    <path class="cls-24" d="M240,939h2v-4A4,4,0,0,0,240,939Z" transform="translate(77 -313)"/>
+    <path class="cls-24" d="M255,939h0a4,4,0,0,0-2-4v4h2Z" transform="translate(77 -313)"/>
+    <path class="cls-24" d="M243,848h-1l-4,10a74,74,0,0,0,5,22V848Z" transform="translate(77 -313)"/>
+    <path class="cls-24" d="M269,850H253v48l6,6,7,6,3-56C269,851,269,850,269,850Z" transform="translate(77 -313)"/>
+    <polygon class="cls-24" points="289 577 288 548 287 551 287 551 287 580 288 584 289 577"/>
+    <polygon class="cls-24" points="288 584 287 580 287 614 287 614 288 584"/>
+    <polygon class="cls-24" points="287 614 287 614 287 622 287 614"/>
+    <polygon class="cls-24" points="287 622 287 614 287 626 287 626 287 622"/>
+    <polygon class="cls-30" points="273 528 267 531 267 524 258 517 258 517 269 542 276 531 273 528"/>
+    <polygon class="cls-30" points="269 542 258 517 258 517 269 542 269 542"/>
+    <path class="cls-30" d="M176,842l10,24h0l6-10-12-25h-5v11Z" transform="translate(77 -313)"/>
+    <polygon class="cls-30" points="281 534 276 531 269 542 271 545 281 534"/>
+    <polygon class="cls-30" points="271 545 269 542 269 542 271 545 271 545"/>
+    <polygon class="cls-30" points="269 542 263 553 271 545 269 542"/>
+    <path class="cls-31" d="M229,845l-5-3-8,6,17,19,3-8a69,69,0,0,1,0-10h5V832h-3l-10,7v7Z" transform="translate(77 -313)"/>
+    <path class="cls-31" d="M237,848a69,69,0,0,0,0,10l4-10h-5Z" transform="translate(77 -313)"/>
+    <polygon class="cls-32" points="316 517 306 517 306 517 316 517"/>
+    <path class="cls-32" d="M218,829h0Z" transform="translate(77 -313)"/>
+    <polygon class="cls-32" points="287 528 287 551 287 551 287 528 287 528"/>
+    <polygon class="cls-32" points="306 525 316 517 306 517 306 525"/>
+    <path class="cls-32" d="M216,838a5,5,0,0,1-5,3h-1v21l6-14,8-6Z" transform="translate(77 -313)"/>
+    <polygon class="cls-32" points="288 548 287 528 287 528 287 551 287 551 288 548"/>
+    <polygon class="cls-33" points="267 517 258 517 267 517 267 517"/>
+    <path class="cls-33" d="M204,829h0Z" transform="translate(77 -313)"/>
+    <polygon class="cls-33" points="273 528 276 531 279 525 273 528"/>
+    <polygon class="cls-33" points="267 517 258 517 267 524 267 517"/>
+    <path class="cls-33" d="M208,844v-3h0a5,5,0,0,1-5-3h-1l-4,6,5,4,6,16Z" transform="translate(77 -313)"/>
+    <polygon class="cls-33" points="286 528 285 531 287 551 287 528 286 528"/>
+    <path class="cls-27" d="M168,831h0Z" transform="translate(77 -313)"/>
+    <path class="cls-27" d="M168,831h0Z" transform="translate(77 -313)"/>
+    <polygon class="cls-27" points="253 571 253 563 243 558 243 589 253 571"/>
+    <path class="cls-27" d="M167,863h-1v8l10,5V842l-5-12h-2Z" transform="translate(77 -313)"/>
+    <polygon class="cls-27" points="253 571 243 589 243 614 253 614 253 571"/>
+    <path class="cls-27" d="M174,934h2v-8H166v8h8Z" transform="translate(77 -313)"/>
+    <path class="cls-27" d="M176,939v-4H166v4h10Z" transform="translate(77 -313)"/>
+    <path class="cls-27" d="M166,863h1l2-32h-3v31Z" transform="translate(77 -313)"/>
+    <path class="cls-27" d="M176,842V832h-5Z" transform="translate(77 -313)"/>
+    <path class="cls-26" d="M252,831h0Z" transform="translate(77 -313)"/>
+    <path class="cls-26" d="M249,831l-6,15v3h10V832h-4Z" transform="translate(77 -313)"/>
+    <path class="cls-26" d="M243,927h10V897a67,67,0,0,1-10-17v47Z" transform="translate(77 -313)"/>
+    <path class="cls-26" d="M243,935h10v-8H243v8Z" transform="translate(77 -313)"/>
+    <path class="cls-26" d="M245,934h-2v4h10v-4h-8Z" transform="translate(77 -313)"/>
+    <path class="cls-26" d="M253,897V849H243v32A67,67,0,0,0,253,897Z" transform="translate(77 -313)"/>
+    <path class="cls-26" d="M243,846l6-15h-6v14Z" transform="translate(77 -313)"/>
+    <polygon class="cls-13" points="306 517 306 510 301 513 301 517 306 517"/>
+    <polygon class="cls-13" points="301 517 301 513 295 516 301 517"/>
+    <polygon class="cls-13" points="301 529 306 525 306 525 301 529 301 529"/>
+    <polygon class="cls-13" points="306 531 306 525 301 529 306 531"/>
+    <polygon class="cls-13" points="301 517 306 517 306 517 301 517 301 517"/>
+    <path class="cls-13" d="M216,831h0Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M217,831h0v5l8,4,5-4v-7H217Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M217,831h0Z" transform="translate(77 -313)"/>
+    <polygon class="cls-21" points="273 513 267 510 267 517 273 517 273 513"/>
+    <polygon class="cls-21" points="279 516 273 513 273 517 279 516"/>
+    <polygon class="cls-21" points="267 531 273 528 267 524 267 531"/>
+    <polygon class="cls-21" points="273 517 273 517 267 517 267 517 273 517"/>
+    <path class="cls-21" d="M196,831h0Z" transform="translate(77 -313)"/>
+    <path class="cls-21" d="M203,837h0v-3H190v7l5,4,7-4h1Z" transform="translate(77 -313)"/>
+    <path class="cls-21" d="M202,838h0Z" transform="translate(77 -313)"/>
+    <path class="cls-21" d="M203,831h0Z" transform="translate(77 -313)"/>
+    <path class="cls-21" d="M209,827h-1l-4,2h4v-2Z" transform="translate(77 -313)"/>
+    <polygon class="cls-21" points="286 516 286 514 286 514 284 516 286 516"/>
+    <polygon class="cls-21" points="287 514 286 514 286 516 287 516 287 514"/>
+    <path class="cls-21" d="M204,831h0Z" transform="translate(77 -313)"/>
+    <polygon class="cls-21" points="287 517 286 516 284 516 284 517 287 517 287 517"/>
+    <polygon class="cls-21" points="287 516 286 516 287 517 287 516"/>
+    <polygon class="cls-21" points="283 518 282 518 283 519 283 518"/>
+    <polygon class="cls-21" points="286 520 287 518 283 518 283 519 286 520"/>
+    <path class="cls-21" d="M203,838a5,5,0,0,0,5,3h0v-7Z" transform="translate(77 -313)"/>
+    <polygon class="cls-21" points="283 518 284 517 281 517 282 518 283 518"/>
+    <polygon class="cls-21" points="287 518 287 517 284 517 283 518 287 518"/>
+    <polygon class="cls-21" points="287 517 287 517 287 517 287 517"/>
+    <polygon class="cls-21" points="287 517 287 516 287 517 287 517 287 517"/>
+    <polygon class="cls-21" points="287 521 286 521 286 528 287 528 287 521"/>
+    <polygon class="cls-21" points="287 521 287 518 287 518 286 520 287 521"/>
+    <polygon class="cls-21" points="287 518 287 517 287 517 287 518 287 518 287 518"/>
+    <polygon class="cls-21" points="287 517 287 518 287 517 287 517"/>
+    <path class="cls-21" d="M203,830h0Z" transform="translate(77 -313)"/>
+    <path class="cls-21" d="M205,831h-2v3h0l3-5h-1Z" transform="translate(77 -313)"/>
+    <path class="cls-21" d="M209,834l-3-2-3,5h0l6-3h0Z" transform="translate(77 -313)"/>
+    <path class="cls-21" d="M205,831h0Z" transform="translate(77 -313)"/>
+    <polygon class="cls-21" points="286 521 287 521 286 520 286 521"/>
+    <path class="cls-13" d="M210,829h6l-4-2h-2v2Z" transform="translate(77 -313)"/>
+    <polygon class="cls-13" points="287 514 287 514 287 514 287 514"/>
+    <path class="cls-13" d="M216,831h-6v2h5Z" transform="translate(77 -313)"/>
+    <polygon class="cls-13" points="287 528 287 528 287 528 287 528"/>
+    <polygon class="cls-13" points="291 518 288 518 288 520 291 518"/>
+    <path class="cls-13" d="M216,838l-5-3v6h1A5,5,0,0,0,216,838Z" transform="translate(77 -313)"/>
+    <polygon class="cls-13" points="291 518 293 517 288 517 288 518 291 518"/>
+    <polygon class="cls-13" points="287 528 287 528 287 528 287 525 287 528"/>
+    <path class="cls-13" d="M216,830h0Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M211,833h0l5,3v-5h-2Z" transform="translate(77 -313)"/>
+    <path class="cls-13" d="M217,831h0Z" transform="translate(77 -313)"/>
+    <polygon class="cls-13" points="287 514 287 516 287 516 287 514"/>
+    <polygon class="cls-13" points="287 516 287 514 287 514 287 516 287 516"/>
+    <polygon class="cls-13" points="287 517 288 517 287 516 287 516 287 517 287 517"/>
+    <rect class="cls-13" x="287" y="516" height="1.54"/>
+    <rect class="cls-13" x="287" y="518" height="2.58"/>
+    <polygon class="cls-13" points="287 521 287 521 287 528 287 528 287 521"/>
+    <polygon class="cls-13" points="287 518 287 518 287 518 287 518"/>
+    <polygon class="cls-13" points="287 517 287 517 287 518 287 518 287 517"/>
+    <polygon class="cls-13" points="287 525 288 522 287 521 287 525"/>
+    <polygon class="cls-13" points="288 520 288 518 287 518 287 521 288 520"/>
+    <polygon class="cls-13" points="288 518 288 517 287 517 287 518 288 518"/>
+    <polygon class="cls-13" points="287 518 287 518 287 521 287 521 287 518"/>
+    <polygon class="cls-13" points="287 521 287 528 287 525 287 521 287 521"/>
+    <polygon class="cls-13" points="287 518 287 517 287 517 287 518 287 518"/>
+    <polygon class="cls-13" points="287 521 287 521 287 521 287 521"/>
+    <polygon class="cls-13" points="288 520 287 521 287 521 288 522 288 521 288 520"/>
+    <polygon class="cls-13" points="287 521 287 521 287 521 287 521 287 521"/>
+    <path class="cls-16" d="M269,724h-3v5Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M265,744v10l6-5c0-9,2-14,3-19s-2-6-5-6l-3,5v15Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M266,757c3,0,5-4,5-7h0l-6,5v2h2Z" transform="translate(77 -313)"/>
+    <path class="cls-19" d="M153,724h-1c-3,0-6,3-6,7s3,10,3,19,1,8,5,7h1v-7C154,744,153,734,153,724Z" transform="translate(77 -313)"/>
+    <path class="cls-19" d="M199,762c1-5,7-55,11-60V676c-29,1-28-7-36-4s-17,32-17,54h0a6,6,0,0,1,1,3v21a6,6,0,0,1-1,3c3,15,13,29,24,20s7-6,14-8h0A3,3,0,0,1,199,762Zm-19-29a5,5,0,1,1,5-5A5,5,0,0,1,180,733Zm13-14c-3-1-6-3-11-3a40,40,0,0,0-16,3c-2,1-5-5-3-5a44,44,0,0,1,19-5,36,36,0,0,1,15,3C199,713,195,720,192,719Z" transform="translate(77 -313)"/>
+    <path class="cls-19" d="M160,751V730a6,6,0,0,0-1-3v17a46,46,0,0,0,1,10A6,6,0,0,0,160,751Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M210,702c2,2,4,8,6,23s5,35,5,37a3,3,0,0,1,2,2h0c7,2,10,5,14,8l3,2h0l22-36v-8h0c0-63-18-59-18-59s-8,4-26,6h-7v26h0Zm30,31a5,5,0,1,1,5-5A5,5,0,0,1,240,733Zm-16-21c17-5,33,1,34,2s-1,6-3,5-13-4-27,0C225,720,221,713,223,712Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M256,765l-17,9h0C245,778,252,773,256,765Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M260,753a6,6,0,0,1,0-2V738l-22,36,20-15Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M258,759l-20,15,17-9Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M261,738h1q0-4,0-8h0v8Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M260,753v-2q0-7,1-14h-1v13A6,6,0,0,0,260,753Z" transform="translate(77 -313)"/>
+    <path class="cls-34" d="M196,821v-9h14V792H183c-16,0-27-13-27-30v-5h0v0h0v15c0,2,0,3,0,5l14,30C178,815,188,819,196,821Z" transform="translate(77 -313)"/>
+    <polygon class="cls-34" points="247 494 247 494 233 464 233 464 247 494"/>
+    <path class="cls-34" d="M170,807l-14-30C157,790,163,800,170,807Z" transform="translate(77 -313)"/>
+    <path class="cls-34" d="M208,822v-8H196v9l13,3v-3Z" transform="translate(77 -313)"/>
+    <path class="cls-34" d="M210,814v11h1V814Z" transform="translate(77 -313)"/>
+    <path class="cls-34" d="M155,750v7h0v-7Z" transform="translate(77 -313)"/>
+    <path class="cls-34" d="M155,757h0v0Z" transform="translate(77 -313)"/>
+    <path class="cls-34" d="M157,726h0Z" transform="translate(77 -313)"/>
+    <path class="cls-34" d="M193,780a2,2,0,0,1,3-1,43,43,0,0,0,13,2V768h-9l-3-2c-7,2-10,5-14,8s-21-5-24-20l-3,3v5c0,16,10,30,27,30h27v-7C201,785,193,781,193,780Z" transform="translate(77 -313)"/>
+    <path class="cls-34" d="M159,754a46,46,0,0,1-1-10V726h0c0,7,0,13,0,18s-1,5-2,11v2Z" transform="translate(77 -313)"/>
+    <polygon class="cls-35" points="306 479 288 479 287 499 294 499 306 479"/>
+    <path class="cls-35" d="M264,762c0,16-10,30-27,30h-8l-12,20h7v9c16-5,39-18,39-49V761h0Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M264,759v2h0v-4h0v3h0Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M210,824h0l7-12h-7v12Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M224,812h-7l-7,12,14-3v-9Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M210,824h0v0Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M264,755v0h0Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M264,757h0v-2h0v2Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M263,762c0,16-10,30-27,30h0c16,0,27-13,27-30h0Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M263,761h0v-4h0v4Z" transform="translate(77 -313)"/>
+    <polygon class="cls-35" points="341 444 341 444 341 444 341 444"/>
+    <path class="cls-35" d="M238,775l-3-2c-4-3-7-6-14-8l-3,2h-9v12l12-2a2,2,0,0,1,3,1c0,1-7,6-15,6v6h18Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M263,762h0l-8,4c-4,8-11,13-17,10l-10,17h8C253,792,263,779,263,762Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M261,754h-1v-2h0l-2,6,4-3v-2Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M262,756l-4,3-3,6,8-4v-4h-1Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M261,751v2h0v-3Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M262,756h1c0-2-1-3-2-1v2Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M262,756h0Z" transform="translate(77 -313)"/>
+    <polygon class="cls-35" points="287 499 288 479 287 479 287 499 287 499 287 499"/>
+    <polygon class="cls-35" points="287 499 287 499 287 506 287 499"/>
+    <polygon class="cls-35" points="287 499 287 499 287 500 287 499"/>
+    <polygon class="cls-35" points="287 506 287 499 287 500 287 511 287 506"/>
+    <path class="cls-35" d="M210,780V768h0v12h1Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M211,791v-6h-1v7h1Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M197,778a2,2,0,0,0-3,1c0,1,8,5,16,6v-5A43,43,0,0,1,197,778Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M226,780a2,2,0,0,0-3-1l-12,2v5C220,785,227,781,226,780Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M210,780v5h1v-5h-1Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M227,719c13-4,27,0,27,0s5-5,3-5-17-7-34-2C221,713,225,720,227,719Z" transform="translate(77 -313)"/>
+    <path class="cls-36" d="M240,723a5,5,0,1,0,5,5A5,5,0,0,0,240,723Zm1,6a2,2,0,1,1,2-2A2,2,0,0,1,241,729Z" transform="translate(77 -313)"/>
+    <circle class="cls-37" cx="318" cy="414" r="2"/>
+    <path class="cls-34" d="M197,712a36,36,0,0,0-15-3,44,44,0,0,0-19,5c-2,1,1,6,3,5a40,40,0,0,1,16-3c5,0,8,2,11,3S199,713,197,712Z" transform="translate(77 -313)"/>
+    <path class="cls-19" d="M199,762h2a3,3,0,0,1,4,3h5V702C206,707,200,757,199,762Z" transform="translate(77 -313)"/>
+    <path class="cls-19" d="M210,702h0v62h0V702Z" transform="translate(77 -313)"/>
+    <path class="cls-19" d="M204,764h0a3,3,0,0,1-2,2h7v-4h-5Z" transform="translate(77 -313)"/>
+    <path class="cls-19" d="M210,764h0Z" transform="translate(77 -313)"/>
+    <path class="cls-19" d="M210,765h0v4h0v-4Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M215,764c0-2,2-3,4-3h2c0-3-2-19-5-37s-4-21-6-23v62h5Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M215,765h-5v4h7A3,3,0,0,1,215,765Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M210,768h0Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M210,764v0h0Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M210,768v-4h0v4h0Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M210,765v4h0v-4Z" transform="translate(77 -313)"/>
+    <path class="cls-19" d="M199,762h0a3,3,0,0,0-2,2h3v-2Z" transform="translate(77 -313)"/>
+    <path class="cls-19" d="M200,765h-3l3,2h2Z" transform="translate(77 -313)"/>
+    <path class="cls-19" d="M201,762h-2v2h4A3,3,0,0,0,201,762Z" transform="translate(77 -313)"/>
+    <path class="cls-19" d="M204,765h-4l3,2A3,3,0,0,0,204,765Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M221,762h0v3h3A3,3,0,0,0,221,762Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M217,767h2l3-2h-2Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M215,764h5v-3h-2C217,762,215,763,215,764Z" transform="translate(77 -313)"/>
+    <path class="cls-16" d="M220,765h-5a3,3,0,0,0,2,3Z" transform="translate(77 -313)"/>
+    <path class="cls-38" d="M180,723a5,5,0,1,0,5,5A5,5,0,0,0,180,723Zm1,6a2,2,0,1,1,2-2A2,2,0,0,1,181,729Z" transform="translate(77 -313)"/>
+    <circle class="cls-37" cx="258" cy="414" r="2"/>
+    <path class="cls-35" d="M240,663h0c15,0,25,11,27,26,1-2,2-3,2,1l-2,34h0c1-17,2-34,2-38s-3-29-16-27c1-11-14-29-43-28v32h30Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M266,729h0v-5h0v5Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M266,729h0v0Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M266,689h0c-2-14-12-26-27-26h0C255,663,265,675,266,689Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M217,676c18-2,26-6,26-6s18-4,18,59h1V694c1,2,2-2,3-4-1-15-11-26-27-26H210v12h7Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M261,737h0v-9h-1Q261,733,261,737Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M261,743v-7h0q0,6-1,14A44,44,0,0,0,261,743Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M265,724h1l2-34c0-4-1-3-2-1a38,38,0,0,1,0,4v31Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M264,759h0v-3h0v2Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M265,731h1v-5h-1v6Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M264,755h0V729h-1v24Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M264,757v-2h0v2h0Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M266,693v31h0V693a38,38,0,0,0,0-4h0C266,691,266,692,266,693Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M264,757h0v0Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M265,731v-6h0v7h0Z" transform="translate(77 -313)"/>
+    <polygon class="cls-35" points="341 442 341 442 342 418 342 418 341 442"/>
+    <path class="cls-35" d="M264,757h0v-2h0v2Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M265,724V693c0-1,0-2,0-4s-2,6-3,4v33Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M261,754h-1v2h1Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M265,731v-7l-3,3v9Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M261,751v3h1c1-2,2-1,2,1h0V731l-3,5v7A44,44,0,0,1,261,751Z" transform="translate(77 -313)"/>
+    <path class="cls-35" d="M264,757v-2h0Z" transform="translate(77 -313)"/>
+    <path class="cls-34" d="M152,694c0-4,1-3,1-2,1-16,11-28,27-28h29V631l-18,3c-42,12-40,38-40,60,0,8,0,19,1,30h1Z" transform="translate(77 -313)"/>
+    <path class="cls-34" d="M153,724h-1c1,10,1,20,2,26V724Z" transform="translate(77 -313)"/>
+    <path class="cls-34" d="M156,694v31c0-22,2-49,17-54s7,5,36,4V663H180c-16,0-26,13-27,28C154,693,155,696,156,694Z" transform="translate(77 -313)"/>
+    <path class="cls-34" d="M153,693h0c-1-1-1-2-1,2l2,30h1V693Z" transform="translate(77 -313)"/>
+    <path class="cls-34" d="M155,759v-2h0v2Z" transform="translate(77 -313)"/>
+    <path class="cls-34" d="M154,724h-1v33h0V724Z" transform="translate(77 -313)"/>
+    <path class="cls-34" d="M154,724l3,2h0V694c-1,2-2-1-3-2h0v31Z" transform="translate(77 -313)"/>
+    <path class="cls-34" d="M154,724v31c0-5,1-13,2-11s0-11,0-18Z" transform="translate(77 -313)"/>
+    <polygon class="cls-34" points="286 350 287 350 287 318 285 341 286 350"/>
+    <polygon class="cls-34" points="287 350 286 350 287 363 287 350"/>
+    <path class="cls-39" d="M315,1044h0Z" transform="translate(77 -313)"/>
+    <polygon class="cls-39" points="368 756 369 756 367 750 366 750 368 756"/>
+    <path class="cls-39" d="M311,1045v8h-2l2,6,9-3a2,2,0,0,0,1-2l-4-11h-7Z" transform="translate(77 -313)"/>
+    <path class="cls-39" d="M285,1056h0Z" transform="translate(77 -313)"/>
+    <path class="cls-39" d="M282,1057a2,2,0,0,0-1,2l4,11h2l4-2-3-5h-3a77,77,0,0,0,0-9h-4Z" transform="translate(77 -313)"/>
+    <path class="cls-39" d="M285,1056l3,7h1a3,3,0,0,1,2-4l14-5h6v-8l-26,10h0Z" transform="translate(77 -313)"/>
+    <path class="cls-39" d="M286,1065h3l-3-7A77,77,0,0,1,286,1065Z" transform="translate(77 -313)"/>
+    <path class="cls-39" d="M309,1054l-19,9,2,6,20-8-2-6h-1Z" transform="translate(77 -313)"/>
+    <path class="cls-39" d="M306,1053l-14,5a3,3,0,0,0-2,4h0l19-9h-3Z" transform="translate(77 -313)"/>
+  </g>
+</svg>
